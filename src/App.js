@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react';
 import Listitems from './Listitems.js'
-
+import FunctionalComponent  from './FunctionalComponent 2.js';
 
 class App extends React.Component{
   constructor(props){
